@@ -1,0 +1,23 @@
+[
+  {"origen": "Plaza_Bolivar", "destino": "Museo_del_Oro", "distancia": 0.5, "costo": 1500},
+  {"origen": "Museo_del_Oro", "destino": "Biblioteca_Luis_Angel_Arango", "distancia": 0.6, "costo": 1800},
+  {"origen": "Biblioteca_Luis_Angel_Arango", "destino": "Museo_Botero", "distancia": 0.7, "costo": 2100},
+  {"origen": "Museo_Botero", "destino": "Casa_de_la_Moneda", "distancia": 0.8, "costo": 2400},
+  {"origen": "Casa_de_la_Moneda", "destino": "Museo_Santa_Clara", "distancia": 0.9, "costo": 2700},
+  {"origen": "Museo_Santa_Clara", "destino": "Palacio_Narino", "distancia": 1.0, "costo": 3000},
+  {"origen": "Palacio_Narino", "destino": "Capitolio_Nacional", "distancia": 1.1, "costo": 3300},
+  {"origen": "Capitolio_Nacional", "destino": "Catedral_Primada", "distancia": 1.2, "costo": 3600},
+  {"origen": "Catedral_Primada", "destino": "Plaza_del_Rosario", "distancia": 1.3, "costo": 3900},
+  {"origen": "Plaza_del_Rosario", "destino": "Plaza_del_Chorro", "distancia": 1.4, "costo": 4200},
+  {"origen": "Plaza_del_Chorro", "destino": "Quinta_de_Bolivar", "distancia": 1.5, "costo": 4500},
+  {"origen": "Quinta_de_Bolivar", "destino": "Monserrate", "distancia": 1.6, "costo": 4800},
+  {"origen": "Monserrate", "destino": "Estacion_Las_Aguas", "distancia": 1.7, "costo": 5100},
+  {"origen": "Estacion_Las_Aguas", "destino": "Universidad_de_Los_Andes", "distancia": 1.8, "costo": 5400},
+  {"origen": "Universidad_de_Los_Andes", "destino": "Museo_Colonial", "distancia": 1.9, "costo": 5700},
+  {"origen": "Estacion_Norte", "destino": "Centro", "distancia": 1.7, "costo": 5000},
+  {"origen": "Centro", "destino": "Estacion_Sur", "distancia": 2.7, "costo": 8000},
+  {"origen": "Centro", "destino": "Universidad", "distancia": 1.3, "costo": 4000},
+  {"origen": "Estacion_Norte", "destino": "Universidad", "distancia": 3.3, "costo": 10000},
+  {"origen": "Universidad", "destino": "Terminal", "distancia": 1.0, "costo": 3000},
+  {"origen": "Estacion_Sur", "destino": "Terminal", "distancia": 2.0, "costo": 6000}
+]
